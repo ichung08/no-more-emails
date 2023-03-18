@@ -1,3 +1,3 @@
-# no-more-emails
+# No More Emails
 
-I'm sick of sending follow up emails so I built this.
+I'm sick of sending follow up emails so I built this
